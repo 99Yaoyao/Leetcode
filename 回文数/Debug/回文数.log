@@ -1,0 +1,3 @@
+﻿  test.c
+D:\code_2023\回文数\test.c(41): warning C4715: “isPalindrome1”: 不是所有的控件路径都返回值
+  回文数.vcxproj -> D:\code_2023\回文数\Debug\回文数.exe
